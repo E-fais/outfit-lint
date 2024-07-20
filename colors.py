@@ -1,0 +1,23 @@
+dress_colors = {
+    "Black": ["White", "Gray", "Red", "Navy", "Pink", "Beige", "Charcoal"],
+    "White": ["Black", "Gray", "Navy", "Beige", "Ivory", "Stone", "Taupe"],
+    "Gray": ["White", "Black", "Navy", "Pink", "Beige", "Charcoal", "Stone"],
+    "Beige": ["Black", "White", "Gray", "Navy", "Brown", "Olive", "Charcoal"],
+    "Navy": ["White", "Gray", "Beige", "Pink", "Charcoal", "Olive", "Cream"],
+    "Charcoal": ["White", "Gray", "Navy", "Pink", "Beige", "Stone", "Taupe"],
+    "Ivory": ["Black", "Gray", "Navy", "Beige", "Charcoal", "Cream", "Taupe"],
+    "Stone": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Olive"],
+    "Taupe": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Olive"],
+    "Cream": ["Black", "Gray", "Navy", "Beige", "Charcoal", "Ivory", "Taupe"],
+    "Brown": ["Beige", "Ivory", "Navy", "Cream", "Charcoal", "Olive", "Taupe"],
+    "Olive": ["Beige", "White", "Gray", "Navy", "Charcoal", "Taupe", "Stone"],
+    "Red": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Taupe"],
+    "Pink": ["Black", "Gray", "Navy", "Beige", "Charcoal", "White", "Ivory"],
+    "Burgundy": ["Black", "Gray", "Navy", "Beige", "Charcoal", "Ivory", "Taupe"],
+    "Teal": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Ivory"],
+    "Mustard": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Ivory"],
+    "Forest Green": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Ivory"],
+    "Plum": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Ivory"],
+    "Maroon": ["Black", "White", "Gray", "Navy", "Beige", "Charcoal", "Ivory"],
+}
+
